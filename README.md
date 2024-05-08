@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoro2045&label=Profile%20views&color=ff0000&style=plastic" alt="zoro2045" /> </p>
 
-- 🔭 I’m currently working on [DolbyAtmos](https://zoro2045.github.io/DolbyAtmos/), [Holy Quran playlist](https://zoro2045.github.io/Holy_Quran_Playlist/), [TransGPT](https://zoro2045.github.io/TransGPT/)
+- 🔭 I’m currently working on [DolbyAtmos](https://zoro2045.github.io/DolbyAtmos/), [Holy Quran playlist](https://zoro2045.github.io/Holy_Quran_Playlist/), [TransGPT](https://zoro2045.github.io/TransGPT/), [Webhook management](https://zoro2045.github.io/Webhook_Management/), [upload image to telegraph](https://zoro2045.github.io/Upload-image-to-telegraph/), you can check my repositories for more.
 
 - 🌱 I’m currently learning **Courses and acquire new skills**
 
