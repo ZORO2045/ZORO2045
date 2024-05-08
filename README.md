@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Courses and acquire new skills**
 
-- 👨‍💻 All of my projects are available at [https://zoro2045.github.io](https://zoro2045.github.io)
+- 👨‍💻 All of my projects are available at [https://zoro2045.github.io](https://github.com/ZORO2045?tab=repositories)
 
-- 📫 How to reach me **https://t.me/ZORO2045**
+- 📫 How to reach me **https://zoro2045.github.io**
 
 - ⚡ Fun fact **Did you know that if you spend enough time coding, your coffee mug starts recognizing you before your own family does?**
 
