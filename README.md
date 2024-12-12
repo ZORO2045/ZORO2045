@@ -28,4 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoro2045&theme=dark" alt="zoro2045" /></p>
 
+[![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=zoro2045&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/zoro2045?tab=repositories)
+
 ![snake gif](https://github.com/3bsalam-1/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)
