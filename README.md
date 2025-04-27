@@ -13,7 +13,7 @@
 ### 🚀 Current Projects
 - **[Dolby Atmos Web Interface](https://zoro2045.github.io/DolbyAtmos/)** - Audio enhancement platform  
 - **[Holy Quran Playlist](https://zoro2045.github.io/Holy_Quran_Playlist/)** - Spiritual audio collection  
-- **[TransGPT](https://zoro2045.github.io/TransGPT/)** - AI-powered translation tool  
+- **[TransGPT](https://zoro2045.github.io/TransGPT/)** - translation tool  
 - **[Webhook Manager](https://zoro2045.github.io/Webhook_Management/)** - Automated workflow system  
 - **[Telegraph Image Uploader](https://zoro2045.github.io/Upload-image-to-telegraph/)** - Media hosting utility  
 - **[Custom ROM Hub](https://zoro2045.github.io/SM-T585-Custom-ROMs/)** - Android device customization  
