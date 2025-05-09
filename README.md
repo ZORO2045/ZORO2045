@@ -1,8 +1,14 @@
 <div id="header" align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 </div>
-<div id="view" align="center">
- 
+<div id="badges"align="center">
+  
+### Linktree (All My Accounts)
+
+<a href="https://linktr.ee/zoro2045" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="50" alt="linktree logo"/>
+  </a>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_zoro2045)
