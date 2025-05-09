@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="50" alt="linktree logo"/>
   </a>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1500&color=00FFAA&width=650&height=60&lines=🚀+Hi%2C+I'm+Ahmed+Mohammed+%7C+Android+%26+Web+Dev;📱+Android+Expert:+Kotlin+%7C+Jetpack+Compose+%7C+MVVM;🌐+Full-Stack+Web:+React+%7C+Node.js+%7C+Django;🤖+Telegram+Bots+Specialist+%7C+Python+Aiogram;💡+Open-Source+Contributor+%7C+Problem+Solver;🔥+Passionate+about+Clean+Code+%26+Automation)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_zoro2045)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/profile.php?id=100028329259858)
